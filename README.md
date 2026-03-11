@@ -3,7 +3,8 @@ Build a modern data warehouse with SQL Server, incl ETL process, data modelling 
 
 
 # Data Warehouse and Analytics Project
-Welcome to the Data Warehouse and Analytics Project repository! 🚀 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project for upskilling and practise purposes.
+Welcome to the Data Warehouse and Analytics Project repository! 🚀 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights.
+Designed as a portfolio project for upskilling and practise purposes.
 It highlights industry best practices in data engineering and analytics.
 
 
@@ -35,5 +36,17 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
-🛡️ License
+### 📋Project management
+For the task organization and prioritization, I used Notion to build a database to track progress.
+Find the Notion db here 
+
+> 🔗 [Open Project in Notion](<https://www.notion.so/Data-Warehouse-Project-18cb133f57bd80699a5eeabb7f5bdf99>)
+
+
+### Dataset disclaimer 
+All data used and stored in the folder 'dataset' are dummy data and was created ONLY for the purpose of this project
+
+### 🛡️ License
+
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+[MIT License](./LICENSE).
