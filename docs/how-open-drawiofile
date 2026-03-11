@@ -1,0 +1,27 @@
+# Architecture
+
+This folder contains the **data architecture diagram** for the project, created with [Draw.io](https://app.diagrams.net/).
+
+## Files
+
+| File | Description |
+|------|-------------|
+| `sql-data-warehouse-project-1-data-architecture.drawio` | Full end-to-end data architecture diagram |
+
+## How to Open
+
+1. Go to [draw.io](https://app.diagrams.net/)
+2. Download the `.drawio` file
+3. Click **File → Open from → Device**
+4. Select the `.drawio` file from this folder
+
+Alternatively, if using VS Code, install the **Draw.io Integration** extension to open `.drawio` files directly in the editor.
+
+## Architecture Overview
+
+The diagram covers:
+- **Data Sources** — origin systems and ingestion points
+- **Staging Layer** — raw landing zone for data
+- **Core / DWH Layer** — cleaned and integrated data
+- **Reporting Layer** — aggregated and presentation-ready data
+- **Consumers** — BI tools, dashboards, and end users
